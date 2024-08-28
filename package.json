@@ -1,0 +1,13 @@
+{
+    "name": "tasktracker",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "start": "node src/ToDo.service.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module"
+  }
+  
